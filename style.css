@@ -323,14 +323,14 @@ ul li a {
 
 
 /* MEDIA QUERIES */
-@media  screen and (min-width:1200px) {
+@media  (min-width:1200px) {
   header .logo{font-size: 2.5rem;}
   .navbar ul li a{font-size: 1.5rem;} 
   .hero .text{bottom: 15%;}
   .hero .text h2{font-size: 1.6rem;}
   .hero .text p{font-size: 1.3rem; line-height: 20px;}
 }
-@media screen and (max-width:1024px) {
+@media (max-width:1024px) {
   .heading{font-size: 4rem;}
   .travel-section .travel .head{width: 50%; top: 20%;}
   .footer{margin-top: 5vh;}
@@ -338,7 +338,7 @@ ul li a {
   .dest1{height: 70vh;}
   .dest2{height:50vh ;}
 }
-@media screen and (max-width:950px) {
+@media (max-width:950px) {
   .dest-section h1{font-size: 2rem;}
   .dest-section{height: 130vh;}
   .dest1{height: 60vh;}
@@ -355,7 +355,7 @@ ul li a {
   .footer .text{bottom: 5%;}
   .footer .text ul{width: 50%;}
 }
-@media screen and (max-width:770px) {
+@media (max-width:770px) {
    header .logo{font-size: 1rem;}
    .navbar ul li a{font-size: 0.6rem;}
   .heading {font-size: 3rem;}
@@ -374,7 +374,7 @@ ul li a {
   .footer .text ul {width: 40%;}
   .footer .text ul li a {font-size: 0.6rem;}
 }
-@media screen and (max-width:560px) {
+@media (max-width:560px) {
   .hero-section .hero .heading{width: 100%; font-size: 2rem; text-align: center;}
   .hero .text .left,.hero .text .right{width: 30%;}
   .nature-section .nature .head h1{font-size: 18px;}
@@ -382,7 +382,7 @@ ul li a {
   .travel-section .travel .head{top: 20%;}
   .footer .text ul{width: 60%;}
 }
-@media screen and (max-width:425px) {
+@media (max-width:425px) {
   .hero .text h2{font-size: 12px;}
   .hero .text p{font-size: 8px; line-height: 10px;}
   .dest-head h1{font-size: 15px;}
@@ -395,7 +395,7 @@ ul li a {
   .nature-section .nature .head h1{font-size: 12px; line-height: 12px;}
   .nature-section .nature .head p{font-size: 8px;}
 }
-@media screen and (max-width:380px) {
+@media (max-width:380px) {
   header{flex-direction: column; align-items: center; justify-content: center; padding: 5px;}
   .navbar ul{gap: 10px; width: 50%;}
   .dest-section{height: 90vh;}
