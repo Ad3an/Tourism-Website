@@ -25,10 +25,6 @@ function heroAnimation() {
 function loco(){
   (function () {
     const locomotiveScroll = new LocomotiveScroll();
-    mobile:{smooth:true};
-    tablet:{
-      smooth:true;
-    breakpoint:0}
 })();
 }
 
