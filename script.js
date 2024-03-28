@@ -30,4 +30,4 @@ function loco(){
 
 heroAnimation();
 realPageAnimation();
-loco()
+// loco()
