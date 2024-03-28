@@ -1,6 +1,5 @@
 ﻿<h2>Description</h2>
 Welcome to our project! This is a design of a Responsive Tourism Website of a India made with HTML, CSS, JAVASCRIPT, LOCOMOTIVE JS and GSAP SCROLLTRIGGER. We hope you enjoy and we look forward to your contributions! <br>
-NOTE: ALL the Images used are not the original images. They are only used for a better design
 <br>
 ﻿<h2>Contributing</h2>
 We welcome any and all contributions! Here are some ways you can get started:<br>
