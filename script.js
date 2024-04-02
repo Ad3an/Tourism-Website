@@ -22,8 +22,10 @@ function heroAnimation() {
     ease: Power3,
   });
 }
-
+function loco(){
+  const locomotiveScroll = new LocomotiveScroll();
+}
 
 heroAnimation();
 realPageAnimation();
-// loco()
+loco()
